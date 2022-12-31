@@ -29,5 +29,3 @@ client.on('ready', () => {
 client.login(process.env.BOT_TOKEN);
 
 exports.start = () => {};
-
-// client.login('MTA1ODcwNDQ4NDYzMDU0NDM5NA.G-CWYF.BU8sM8PSbXtwO8uXFPaJqlEabJfue1xRb9CM8Y');
